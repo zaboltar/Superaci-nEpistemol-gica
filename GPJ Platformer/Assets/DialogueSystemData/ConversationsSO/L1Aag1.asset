@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: L1Aag1
+  m_EditorClassIdentifier: Assembly-CSharp::Conversation
+  speakerLeft: {fileID: 11400000, guid: 05eec53908d80504781c87dd5cade4e2, type: 2}
+  speakerRight: {fileID: 11400000, guid: ce2a1f390bfb6db48a738fe035badcc6, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: ce2a1f390bfb6db48a738fe035badcc6, type: 2}
+    text: EA! no te muevas!!
+  - character: {fileID: 11400000, guid: 05eec53908d80504781c87dd5cade4e2, type: 2}
+    text: SOY LIBRE!!!
+  - character: {fileID: 11400000, guid: ce2a1f390bfb6db48a738fe035badcc6, type: 2}
+    text: Nadie es libre, y te vas a bugear
+  - character: {fileID: 11400000, guid: 05eec53908d80504781c87dd5cade4e2, type: 2}
+    text: maldito presupuesto miserable
+  - character: {fileID: 11400000, guid: 05eec53908d80504781c87dd5cade4e2, type: 2}
+    text: "con raz\xF3n hay un s\xF3lo nivel"

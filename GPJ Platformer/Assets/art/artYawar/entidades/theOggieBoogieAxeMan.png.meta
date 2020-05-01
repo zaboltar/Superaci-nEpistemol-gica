@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: fc57043c584be5b4796d60c50ac622f1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theOggieBoogieAxeMan_0
+    21300002: theOggieBoogieAxeMan_1
+    21300004: theOggieBoogieAxeMan_2
+    21300006: theOggieBoogieAxeMan_3
+    21300008: theOggieBoogieAxeMan_4
+    21300010: theOggieBoogieAxeMan_5
+    21300012: theOggieBoogieAxeMan_6
+    21300014: theOggieBoogieAxeMan_7
+    21300016: theOggieBoogieAxeMan_8
+    21300018: theOggieBoogieAxeMan_9
+    21300020: theOggieBoogieAxeMan_10
+    21300022: theOggieBoogieAxeMan_11
+    21300024: theOggieBoogieAxeMan_12
+    21300026: theOggieBoogieAxeMan_13
+    21300028: theOggieBoogieAxeMan_14
+    21300030: theOggieBoogieAxeMan_15
+    21300032: theOggieBoogieAxeMan_16
+    21300034: theOggieBoogieAxeMan_17
+    21300036: theOggieBoogieAxeMan_18
+    21300038: theOggieBoogieAxeMan_19
+    21300040: theOggieBoogieAxeMan_20
+    21300042: theOggieBoogieAxeMan_21
+    21300044: theOggieBoogieAxeMan_22
+    21300046: theOggieBoogieAxeMan_23
+    21300048: theOggieBoogieAxeMan_24
+    21300050: theOggieBoogieAxeMan_25
+    21300052: theOggieBoogieAxeMan_26
+    21300054: theOggieBoogieAxeMan_27
+    21300056: theOggieBoogieAxeMan_28
+    21300058: theOggieBoogieAxeMan_29
+    21300060: theOggieBoogieAxeMan_30
+    21300062: theOggieBoogieAxeMan_31
+    21300064: theOggieBoogieAxeMan_32
+    21300066: theOggieBoogieAxeMan_33
+    21300068: theOggieBoogieAxeMan_34
+    21300070: theOggieBoogieAxeMan_35
+    21300072: theOggieBoogieAxeMan_36
+    21300074: theOggieBoogieAxeMan_37
+    21300076: theOggieBoogieAxeMan_38
+    21300078: theOggieBoogieAxeMan_39
+    21300080: theOggieBoogieAxeMan_40
+    21300082: theOggieBoogieAxeMan_41
+    21300084: theOggieBoogieAxeMan_42
+    21300086: theOggieBoogieAxeMan_43
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 481
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce746a2767a54144a997161223576366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 481
+        width: 91
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8858bd13ab6a2d4e9674b6ce63d40ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 483
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aaee7d816167a41a20e93debef16d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 489
+        width: 69
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a16ab5df84944b91ccf06a7170634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 280
+        width: 119
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35282932b0d890c449c1ba517b557fc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 274
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff39c84f43568d4289421518f4dee8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 287
+        width: 109
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c4a1f57f569964f8ee9021cc51e4e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 293
+        width: 84
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f14834f414904c8d4956a3e52df59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_8
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 361
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5552d84b3ce60744b14d08a3d3a584e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 121
+        height: 137
+      alignment: 9
+      pivot: {x: 0.61036783, y: 0.7816035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ac958d7b561a74bb2f233932d3f9c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 30
+        width: 104
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5951177, y: 0.70583206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7d698f40ef1e4688a36c75e84675c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 43
+        width: 112
+        height: 112
+      alignment: 9
+      pivot: {x: 0.48233578, y: 0.8400453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d40f361ec962a94c855b5fee597fb89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theOggieBoogieAxeMan_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 46
+        width: 108
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5870152, y: 0.86271477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca259c4f6e940046b802538d921e357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b4a76632ac761ce4282a52c51789cb1f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

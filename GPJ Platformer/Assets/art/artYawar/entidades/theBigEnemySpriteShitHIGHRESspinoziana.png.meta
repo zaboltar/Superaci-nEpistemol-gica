@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: 10ea02c1bb5420c409eab0cb61e4510b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: theBigEnemySpriteShitHIGHRESspinoziana_0
+    21300002: theBigEnemySpriteShitHIGHRESspinoziana_1
+    21300004: theBigEnemySpriteShitHIGHRESspinoziana_2
+    21300006: theBigEnemySpriteShitHIGHRESspinoziana_3
+    21300008: theBigEnemySpriteShitHIGHRESspinoziana_4
+    21300010: theBigEnemySpriteShitHIGHRESspinoziana_5
+    21300012: theBigEnemySpriteShitHIGHRESspinoziana_6
+    21300014: theBigEnemySpriteShitHIGHRESspinoziana_7
+    21300016: theBigEnemySpriteShitHIGHRESspinoziana_8
+    21300018: theBigEnemySpriteShitHIGHRESspinoziana_9
+    21300020: theBigEnemySpriteShitHIGHRESspinoziana_10
+    21300022: theBigEnemySpriteShitHIGHRESspinoziana_11
+    21300024: theBigEnemySpriteShitHIGHRESspinoziana_12
+    21300026: theBigEnemySpriteShitHIGHRESspinoziana_13
+    21300028: theBigEnemySpriteShitHIGHRESspinoziana_14
+    21300030: theBigEnemySpriteShitHIGHRESspinoziana_15
+    21300032: theBigEnemySpriteShitHIGHRESspinoziana_16
+    21300034: theBigEnemySpriteShitHIGHRESspinoziana_17
+    21300036: theBigEnemySpriteShitHIGHRESspinoziana_18
+    21300038: theBigEnemySpriteShitHIGHRESspinoziana_19
+    21300040: theBigEnemySpriteShitHIGHRESspinoziana_20
+    21300042: theBigEnemySpriteShitHIGHRESspinoziana_21
+    21300044: theBigEnemySpriteShitHIGHRESspinoziana_22
+    21300046: theBigEnemySpriteShitHIGHRESspinoziana_23
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 505
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97ccf2cc946f147bf532011fb063ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 511
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ff36a6b71984a4a9517abc1fa09fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_2
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 508
+        width: 35
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c25d1376a7b4f41b11d49895edeed5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 505
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88bcb1c5d19e494f9e7564132a53350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_4
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 507
+        width: 39
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775d4ca5557299d4b81fa8477be31d50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 390
+        width: 71
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439ea7762c5adee49bbe8bcd2fe39441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 385
+        width: 67
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bba9c9532ec6934c8c52c2a500e0bd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 390
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df42fca2b0e8c48b018ef09c176673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 390
+        width: 62
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f499b5ff89e3645bd289d46d2b9cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 389
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3a1cdee7bee349a108ea22651c50f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 273
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2cf6723cc66cf4492675e7834a12cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 273
+        width: 60
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6418b50ca924f124dae82cb9969f925f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 272
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305ff967043464fbcbff0c8caa1b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 272
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a99956bef039d84eacb4664c5ccf411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_14
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 141
+        width: 48
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6d8e75867b43478ab9625810339ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 217
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79614829265289a4bb3b183c93d59c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 138
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c97095cf700cd42b0fd08fcd91bbfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 140
+        width: 41
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1acbd7354611b489b6977284ad0d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 141
+        width: 43
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b80c6eb5c4c664b87ea95cc29287b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 141
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4087c881a71f2834799dbf5dc3c9eef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3184e7aaae324c4b91142bfc8b68be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_21
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 111
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ccc1eeda538e34d907e26a47d68abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345f7223948f7ff4fbb9b1ee743bbcc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: theBigEnemySpriteShitHIGHRESspinoziana_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 16
+        width: 59
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce03376ff55e814a9b808a6464b379b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c24a177b48702748bc3d8195d490046
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

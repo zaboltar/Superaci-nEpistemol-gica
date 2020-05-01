@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: e505e9d15467ee941834eba1d5f1a696
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oog_character_spritesheet_0
+    21300002: oog_character_spritesheet_1
+    21300004: oog_character_spritesheet_2
+    21300006: oog_character_spritesheet_3
+    21300008: oog_character_spritesheet_4
+    21300010: oog_character_spritesheet_5
+    21300012: oog_character_spritesheet_6
+    21300014: oog_character_spritesheet_7
+    21300016: oog_character_spritesheet_8
+    21300018: oog_character_spritesheet_9
+    21300020: oog_character_spritesheet_10
+    21300022: oog_character_spritesheet_11
+    21300024: oog_character_spritesheet_12
+    21300026: oog_character_spritesheet_13
+    21300028: oog_character_spritesheet_14
+    21300030: oog_character_spritesheet_15
+    21300032: oog_character_spritesheet_16
+    21300034: oog_character_spritesheet_17
+    21300036: oog_character_spritesheet_18
+    21300038: oog_character_spritesheet_19
+    21300040: oog_character_spritesheet_20
+    21300042: oog_character_spritesheet_21
+    21300044: oog_character_spritesheet_22
+    21300046: oog_character_spritesheet_23
+    21300048: oog_character_spritesheet_24
+    21300050: oog_character_spritesheet_25
+    21300052: oog_character_spritesheet_26
+    21300054: oog_character_spritesheet_27
+    21300056: oog_character_spritesheet_28
+    21300058: oog_character_spritesheet_29
+    21300060: oog_character_spritesheet_30
+    21300062: oog_character_spritesheet_31
+    21300064: oog_character_spritesheet_32
+    21300066: oog_character_spritesheet_33
+    21300068: oog_character_spritesheet_34
+    21300070: oog_character_spritesheet_35
+    21300072: oog_character_spritesheet_36
+    21300074: oog_character_spritesheet_37
+    21300076: oog_character_spritesheet_38
+    21300078: oog_character_spritesheet_39
+    21300080: oog_character_spritesheet_40
+    21300082: oog_character_spritesheet_41
+    21300084: oog_character_spritesheet_42
+    21300086: oog_character_spritesheet_43
+    21300088: oog_character_spritesheet_44
+    21300090: oog_character_spritesheet_45
+    21300092: oog_character_spritesheet_46
+    21300094: oog_character_spritesheet_47
+    21300096: oog_character_spritesheet_48
+    21300098: oog_character_spritesheet_49
+    21300100: oog_character_spritesheet_50
+    21300102: oog_character_spritesheet_51
+    21300104: oog_character_spritesheet_52
+    21300106: oog_character_spritesheet_53
+    21300108: oog_character_spritesheet_54
+    21300110: oog_character_spritesheet_55
+    21300112: oog_character_spritesheet_56
+    21300114: oog_character_spritesheet_57
+    21300116: oog_character_spritesheet_58
+    21300118: oog_character_spritesheet_59
+    21300120: oog_character_spritesheet_60
+    21300122: oog_character_spritesheet_61
+    21300124: oog_character_spritesheet_62
+    21300126: oog_character_spritesheet_63
+    21300128: oog_character_spritesheet_64
+    21300130: oog_character_spritesheet_65
+    21300132: oog_character_spritesheet_66
+    21300134: oog_character_spritesheet_67
+    21300136: oog_character_spritesheet_68
+    21300138: oog_character_spritesheet_69
+    21300140: oog_character_spritesheet_70
+    21300142: oog_character_spritesheet_71
+    21300144: oog_character_spritesheet_72
+    21300146: oog_character_spritesheet_73
+    21300148: oog_character_spritesheet_74
+    21300150: oog_character_spritesheet_75
+    21300152: oog_character_spritesheet_76
+    21300154: oog_character_spritesheet_77
+    21300156: oog_character_spritesheet_78
+    21300158: oog_character_spritesheet_79
+    21300160: oog_character_spritesheet_80
+    21300162: oog_character_spritesheet_81
+    21300164: oog_character_spritesheet_82
+    21300166: oog_character_spritesheet_83
+    21300168: oog_character_spritesheet_84
+    21300170: oog_character_spritesheet_85
+    21300172: oog_character_spritesheet_86
+    21300174: oog_character_spritesheet_87
+    21300176: oog_character_spritesheet_88
+    21300178: oog_character_spritesheet_89
+    21300180: oog_character_spritesheet_90
+    21300182: oog_character_spritesheet_91
+    21300184: oog_character_spritesheet_92
+    21300186: oog_character_spritesheet_93
+    21300188: oog_character_spritesheet_94
+    21300190: oog_character_spritesheet_95
+    21300192: oog_character_spritesheet_96
+    21300194: oog_character_spritesheet_97
+    21300196: oog_character_spritesheet_98
+    21300198: oog_character_spritesheet_99
+    21300200: oog_character_spritesheet_100
+    21300202: oog_character_spritesheet_101
+    21300204: oog_character_spritesheet_102
+    21300206: oog_character_spritesheet_103
+    21300208: oog_character_spritesheet_104
+    21300210: oog_character_spritesheet_105
+    21300212: oog_character_spritesheet_106
+    21300214: oog_character_spritesheet_107
+    21300216: oog_character_spritesheet_108
+    21300218: oog_character_spritesheet_109
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oog_character_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2019
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4100bf0cefc1947a04cd2fa0f964d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2038
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc1f78667163dd4db1849b0cd94d2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2019
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a31c93acf2de74ca33d83f0a358721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2019
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f50dc356ef0019468f0001cf92616f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2024
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90d9573766234d4c8799b007ee11b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 2019
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd8b007f6686745984bffb51d49376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2025
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d74ff4c6eab7c74ca20a50b98a9340a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 2026
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45f980e8d5206418deaadc0a95f01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2019
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe524b01bbce85c43b3c1ebe88830420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 2026
+        width: 4
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6e55af544a774e979136f38ecb963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2025
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b4b606e03dff74a8e5d90c1c9db2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2013
+        width: 74
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a327647aeb0b4ab79ce176c8332fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2019
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51befab5c72ead49a55a6a7e07302e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2016
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7972e926757744c96104207a1f1107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1793
+        width: 102
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab750679a482d4eb7c955d59182b78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1908
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6305e47bbad5a024b823403c9f361211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1799
+        width: 90
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5cc26b93dc8624db50d33d29d01255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1801
+        width: 92
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27b2a21b12eac8468917beb9347e13b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1805
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8189e6d7120924cb17c3b221479caf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1805
+        width: 177
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59301f8ff18cc5f4f90b67c84b142144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1739
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961910bd738dc67429e8e83ce2e7aff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1739
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab33aca422608d4bb9fcd4b6c0deb49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1739
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2882a0d6019244893538e0ee77431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1739
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149f1fc5d43efd4ba9c1bac3981efc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1739
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728f77856c44b948997911f10e3a266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1739
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4144a9cc08268448a0455ad5aaa709d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1739
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f38c7ab19a6bc47a49c76b9c4717b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1511
+        width: 117
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cbb883fe0a69346a418dc1359efdd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1496
+        width: 114
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9779a8cf34eb792469f4886afdc50fb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1483
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c143ae851b7714eb8c4a9e51f4ed70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1482
+        width: 133
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa891f838d6f63e499e181396177b84a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1494
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6528107be0616743a84d7084b48465e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881477abf5316ce48854e056fc253181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1405
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4acfc33ec27bb347b1df772e790fc76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1399
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21e6d30af90ad49890106d801cf0c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1404
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0303afee02272674f9fbe02039b7ddb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1404
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897fae9262edad439c6a362cc6a33a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1404
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25613ab0fc79a7947a9572c150294bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1404
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf536d5d96a59044fa1a557f4f73f388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1404
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75eb9ba03ee7f94981c010cd5399c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1363
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce917e38a3c1d04eae50dde58a26588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1363
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80bce6a28cbacc429110a934235e712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1356
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0807980e442360488b706b265c4f2c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1363
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e0e41b832a7243b502366ad841948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1363
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412d60f1730bca4fb54f8045f4feeed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1363
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ddc637cd326943a78f0520d56a7cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1363
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac16853b28e4d4989e848f899e2aab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1363
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2fa2bc3d112e48a0db9d7c54dfd87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1363
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e43c98ca73db1478538a4ae5ecd928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 136
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9af1faa539ffe34fb4fb6c19746af68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1159
+        width: 145
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48784bb5ee8de541b3d34ce3f80908f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1120
+        width: 130
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0983b630ca37504584092c47ab5b802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1112
+        width: 104
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffbe66e3efcdd74193faf77e19faf71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b599fa01b6487643a2b57813ab4d8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 941
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6431bcc280beb48b512b0c4bb3ad33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 935
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5932b5ebff5133f4eb2a9760cb239a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 935
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d880b58f9c3914fb9b4c96c6921f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 941
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9a949bbe32d5743b3426d88290570d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 941
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d799edf37035746b8a0ffd9fd2fb75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 941
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f924d6787b9ff4aa490886092acb37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 941
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d1207da1030fd44af05f8b9a3080af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 940
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58378eb2db6f956488332464741faa93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 956
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1731c2f27db4854386e6cd1c7d9b168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 957
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f629477cab113534f964e42a4ade51a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 951
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77bd85267ced124abe1a08a05d33d34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 956
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e7dd3394394df4e8c134942e10557f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 956
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d522f0fd6864439bfaa0602e7ecfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 957
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6497fa7c13736814a9394e1b8f8ccf90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 956
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a284b506479c3418ffd69fb776ce5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 713
+        width: 105
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8082e63bda1e71449817d50d1f251e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 701
+        width: 99
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61fb431cfd8f6418a4f02bf1c04e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 884
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6882022d993a945988534ee3bec1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 880
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeb924fdc1fa6d489ad8a83b013630f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 710
+        width: 137
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c15c770f3cd6d41942e7a32f778dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 711
+        width: 150
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742bfb1f0efae214e8e92b5a65d65170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 719
+        width: 134
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97bf35c48b1fa4b9249e2935224fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 700
+        width: 156
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33e8e562af8df74da74fab19adfdf5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d14a060a7e3e4ea48c394652f16db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 579
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57e908e8589204e8720ac094c0a46c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 573
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c79f976dd3a3dc4eb9d2d53919feeff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 579
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3aa5949dbdeb46ab097b8c23290eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 576
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeebea771f919743a9a748f12c6ebf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 576
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc59a1d03a610040ab07b168df23c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 579
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea529239bbdc4d541a44d744cc618b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 356
+        width: 127
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d762c9e64bc684eb90862321734c8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 351
+        width: 162
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a112da23dea37f04d969d896813e4c9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 352
+        width: 117
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2441f73fac7a1f74391d245dd937037a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 351
+        width: 155
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e8ace9cfd527f43b5e86d10fc79bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 356
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ccdb47e8490674ab19ee4818b6996c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 251
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18d8c258aae154db92d082d82c800e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 270
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771687d1db09f8d4a886ba5150c0c576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 251
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ec9324d7df67b4abea291a2c4c5e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 251
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5e05689846fe43aa0dcab4a8dc7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 244
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73f93a2ed488940befbc00fcc15dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 251
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078fe16fc168284cbc3a45e667f2c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 251
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b90510964fc94ba8d1f11b57d4ede
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 245
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5379d44706223478f660961fb1604e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 251
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9a1aae9857764ba578a9c9da478fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 251
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090ec8afbde02ed4ebde9fad5ad2c31e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 251
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500347f0e549e4342bd72cf26c5a5cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 251
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62323ea9f25dd0d49ba7eef4d690bda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 127
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6af48eef5581ad4f86adf6f7f04cc83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1867a0b5d92a6c94da6f7e2350198f63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 131
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05f8115f9002f345ab668cc6c7744d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 21
+        width: 137
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9392e49f4d38d249966f77e1972cd07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 44
+        width: 90
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c743d7a9a0da2fe4c9bc9367e4aca538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 12
+        width: 154
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75302690256ad974182d54fb06431359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 0
+        width: 104
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9718ec728b2854ab5496040cbb6ec3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 132
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c14ba76aa34f43b0e2fb8b8ca5467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oog_character_spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 16
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ea04674b1e0444fbcaad20b320cff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2b5f435c7892bb140923308722ee66dc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
